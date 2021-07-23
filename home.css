@@ -1,0 +1,161 @@
+.container>#logo {
+    width: 15%;
+    height: 15%;
+    margin: 0 auto;
+}
+
+.container>h3 {
+    text-align: center;
+    text-shadow: -1px -1px 0px rgba(47, 172, 67, 0.884), 1px 1px 0px;
+}
+
+
+/* #avatar:link,
+#avatar:visited,
+#avatar:hover,
+#avatar:active {
+    color: rgb(255, 255, 255);
+    padding: 14px 25px;
+    text-decoration: none;
+} */
+
+.container>p {
+    text-align: center;
+    color: limegreen;
+}
+
+#avatar {
+    text-align: center;
+}
+
+.row {
+    width: 90%;
+    margin: 0px auto;
+}
+
+#avatarImg {
+    width: 200px;
+    height: 300px;
+}
+
+#avengersImg {
+    width: 450px;
+    height: 300px;
+}
+
+#titanicImg {
+    width: 400px;
+    height: 500px;
+}
+
+#starwarsImg {
+    width: 400px;
+    height: 400px;
+}
+
+#infinityImg {
+    width: 400px;
+    height: 400px;
+}
+
+#jurassicImg {
+    width: 400px;
+    height: 400px;
+}
+
+#lionImg {
+    width: 400px;
+    height: 400px;
+}
+
+#avangersImg {
+    width: 400px;
+    height: 400px;
+}
+
+#furious7Img {
+    width: 400px;
+    height: 400px;
+}
+
+#frozen2Img {
+    width: 400px;
+    height: 400px;
+}
+
+#ultronImg {
+    width: 400px;
+    height: 400px;
+}
+
+#pantherImg {
+    width: 800px;
+    height: 400px;
+}
+
+#jediImg {
+    width: 400px;
+    height: 400px;
+}
+
+#fallenImg {
+    width: 400px;
+    height: 400px;
+}
+
+#frozenImg {
+    width: 400px;
+    height: 400px;
+}
+
+#beastImg {
+    width: 400px;
+    height: 400px;
+}
+
+#fateImg {
+    width: 400px;
+    height: 400px;
+}
+
+#ironImg {
+    width: 400px;
+    height: 400px;
+}
+
+#miniImg {
+    width: 400px;
+    height: 400px;
+}
+
+#americaImg {
+    width: 400px;
+    height: 400px;
+}
+
+#aquaImg {
+    width: 400px;
+    height: 400px;
+}
+
+#lordImg {
+    width: 400px;
+    height: 400px;
+}
+
+#spiderImg {
+    width: 400px;
+    height: 400px;
+}
+
+.container>.jumbotron>h1 {
+    color: lawngreen;
+}
+
+.container>.jumbotron>.lead {
+    color: lawngreen;
+}
+
+.container>.jumbotron>#cont {
+    color: lawngreen;
+}
